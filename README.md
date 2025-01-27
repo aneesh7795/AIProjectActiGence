@@ -17,7 +17,7 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to analyze 
 **Evaluation**: Provides insights into model performance using various metrics.
 
 
-***Required Libraries***
+*Required Libraries*
 
 Ensure you have the following libraries installed:
 
