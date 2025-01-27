@@ -6,7 +6,7 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to analyze 
 
 <b><u>Features</u></b>
 
-**Data Collection**: Stock price data is fetched from Yahoo Finance using the yfinance library.
+**Data Collection** ":" Stock price data is fetched from Yahoo Finance using the yfinance library.
 
 **Preprocessing**: Prepares and cleans financial time-series data.
 
