@@ -1,4 +1,4 @@
-<h1><u><strong>AIProjectActiGence</strong></u></h1>
+# AIProjectActiGence
 
 <h2>Overview</h2>
 
