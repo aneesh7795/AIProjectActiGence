@@ -1,10 +1,10 @@
 # AIProjectActiGence
 
-**<u>Overview</u>**
+<b><u>Overview</u></b>
 
 This project leverages Long Short-Term Memory (LSTM) neural networks to analyze and make predictions on financial data. Using a combination of Python libraries and technical indicators, it demonstrates a robust pipeline for processing, visualizing, and forecasting stock prices.
 
-**<u>Features</u>**
+<b><u>Features</u></b>
 
 **Data Collection**: Stock price data is fetched from Yahoo Finance using the yfinance library.
 
