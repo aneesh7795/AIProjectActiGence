@@ -49,3 +49,32 @@ Ensure you have the following libraries installed:
   - Model training
 
   - Visualization and evaluation
+
+
+ **Key Components**
+
+
+ **Data Collection**
+ Utilizes the yfinance library to retrieve historical stock price data. You can customize the ticker symbol and time range.
+
+**Preprocessing**
+Handles missing data, normalization, and transformation into a format suitable for LSTM input.
+
+**Modeling**
+Builds and trains an LSTM neural network using TensorFlow. The model is designed to capture temporal dependencies in financial data.
+
+**Visualization**
+Employs matplotlib to plot:
+- Stock price trends
+- Model predictions vs. actual values
+
+
+**Results**
+
+The notebook demonstrates:
+
+- Near Accurate predictions on test datasets.
+
+- Insights into the performance of the LSTM model.
+
+
