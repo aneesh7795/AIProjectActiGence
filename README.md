@@ -1,4 +1,4 @@
-# AIProjectActiGence-
+# <u><strong>AIProjectActiGence</strong></u>
 
 <h2>Overview</h2>
 
