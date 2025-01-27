@@ -1,4 +1,6 @@
 # AIProjectActiGence
+<h1 style="text-decoration: underline; text-decoration-thickness: 4px;">AIProjectActiGence</h1>
+
 
 <h2>Overview</h2>
 
