@@ -6,7 +6,7 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to analyze 
 
 <b><u>Features</u></b>
 
-**Data Collection** ":" Stock price data is fetched from Yahoo Finance using the yfinance library.
+**Data Collection**: Stock price data is fetched from Yahoo Finance using the yfinance library.
 
 **Preprocessing**: Prepares and cleans financial time-series data.
 
@@ -54,16 +54,16 @@ Ensure you have the following libraries installed:
  **Key Components**
 
 
- **Data Collection**
+ **Data Collection**:
  Utilizes the yfinance library to retrieve historical stock price data. You can customize the ticker symbol and time range.
 
-**Preprocessing**
+**Preprocessing**:
 Handles missing data, normalization, and transformation into a format suitable for LSTM input.
 
-**Modeling**
+**Modeling**:
 Builds and trains an LSTM neural network using TensorFlow. The model is designed to capture temporal dependencies in financial data.
 
-**Visualization**
+**Visualization**:
 Employs matplotlib to plot:
 - Stock price trends
 - Model predictions vs. actual values
