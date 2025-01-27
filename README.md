@@ -1,7 +1,4 @@
 # AIProjectActiGence
-<h1 style="text-decoration: underline; text-decoration-thickness: 4px;">AIProjectActiGence</h1>
-
-
 <h2>Overview</h2>
 
 This project leverages Long Short-Term Memory (LSTM) neural networks to analyze and make predictions on financial data. Using a combination of Python libraries and technical indicators, it demonstrates a robust pipeline for processing, visualizing, and forecasting stock prices.
