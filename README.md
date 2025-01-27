@@ -15,3 +15,20 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to analyze 
 **Modeling**: Implements LSTM neural networks for sequence prediction using TensorFlow.
 
 **Evaluation**: Provides insights into model performance using various metrics.
+
+
+***Required Libraries***
+
+Ensure you have the following libraries installed:
+
+numpy
+
+pandas
+
+matplotlib
+
+tensorflow
+
+yfinance
+
+datetime
