@@ -21,14 +21,14 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to analyze 
 
 Ensure you have the following libraries installed:
 
--numpy
+- numpy
 
--pandas
+- pandas
 
--matplotlib
+- matplotlib
 
--tensorflow
+- tensorflow
 
--yfinance
+- yfinance
 
--datetime
+- datetime
