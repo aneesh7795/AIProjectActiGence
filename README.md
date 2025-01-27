@@ -1,5 +1,4 @@
 # AIProjectActiGence
------------------------------
 
 <h2>Overview</h2>
 
@@ -7,15 +6,15 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to analyze 
 
 <h2><u>Features</u></h2>
 
-**Data Collection**: Stock price data is fetched from Yahoo Finance using the yfinance library.
+**Data Collection**  : Stock price data is fetched from Yahoo Finance using the yfinance library.
 
-**Preprocessing**: Prepares and cleans financial time-series data.
+**Preprocessing**    : Prepares and cleans financial time-series data.
 
-**Visualization**: Uses matplotlib for visualizing trends and patterns in the data.
+**Visualization**    : Uses matplotlib for visualizing trends and patterns in the data.
 
-**Modeling**: Implements LSTM neural networks for sequence prediction using TensorFlow.
+**Modeling**         : Implements LSTM neural networks for sequence prediction using TensorFlow.
 
-**Evaluation**: Provides insights into model performance using various metrics.
+**Evaluation**       : Provides insights into model performance using various metrics.
 
 
 <h2><u>Required Libraries</u></h2>
@@ -55,16 +54,16 @@ Ensure you have the following libraries installed:
  <h2><u>Key Components</u></h2>
 
 
- **Data Collection**:
+ **Data Collection** :
  Utilizes the yfinance library to retrieve historical stock price data. You can customize the ticker symbol and time range.
 
-**Preprocessing**:
+**Preprocessing**    :
 Handles missing data, normalization, and transformation into a format suitable for LSTM input.
 
-**Modeling**:
+**Modeling**         :
 Builds and trains an LSTM neural network using TensorFlow. The model is designed to capture temporal dependencies in financial data.
 
-**Visualization**:
+**Visualization**    :
 Employs matplotlib to plot:
 - Stock price trends
 - Model predictions vs. actual values
@@ -72,7 +71,7 @@ Employs matplotlib to plot:
 
 <h2><u>Results</u></h2>
 
-The notebook demonstrates:
+The notebook demonstrates  :
 
 - Near Accurate predictions on test datasets.
 
