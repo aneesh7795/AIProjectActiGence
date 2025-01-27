@@ -17,7 +17,7 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to analyze 
 **Evaluation**: Provides insights into model performance using various metrics.
 
 
-**Required Libraries**
+<h2><u>Required Libraries</u></h2>
 
 Ensure you have the following libraries installed:
 
@@ -34,7 +34,7 @@ Ensure you have the following libraries installed:
 - datetime
 
 
-**Usage**
+<h2><u>Usage</u></h2>
 
 - Clone the repository and navigate to the project directory.
 
@@ -51,7 +51,7 @@ Ensure you have the following libraries installed:
   - Visualization and evaluation
 
 
- **Key Components**
+ <h2><u>Key Components</u></h2>
 
 
  **Data Collection**:
@@ -69,7 +69,7 @@ Employs matplotlib to plot:
 - Model predictions vs. actual values
 
 
-**Results**
+<h2><u>Results</u></h2>
 
 The notebook demonstrates:
 
