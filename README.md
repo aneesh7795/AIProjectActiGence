@@ -37,7 +37,7 @@ Ensure you have the following libraries installed:
 
 - Clone the repository and navigate to the project directory.
 
-- Open the provided Jupyter Notebook **AI-LSTM-Technical.ipynb**.
+- Open the provided Jupyter Notebook **[AI-LSTM-Technical.ipynb](url)**.
 
 - Follow the steps outlined in the notebook:
 
